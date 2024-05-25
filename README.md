@@ -5,8 +5,6 @@ This repository contains my resume file in various formats.
 ## Files
 
 - **#resume.pdf**: PDF version of my resume.
-- **#resume.docx**: Word document version of my resume.
-- **#resume.txt**: Plain text version of my resume.
 
 ## Usage
 
